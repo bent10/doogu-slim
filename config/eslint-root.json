@@ -1,0 +1,6 @@
+{
+  "$schema": "https://json.schemastore.org/eslintrc.json",
+  "root": true,
+  "env": { "es6": true },
+  "extends": ["prettier"]
+}

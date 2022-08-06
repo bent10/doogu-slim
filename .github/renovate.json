@@ -1,0 +1,14 @@
+{
+  "extends": ["config:base"],
+  "labels": ["dependencies"],
+  "rangeStrategy": "bump",
+  "schedule": [
+    "every weekend"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["minor", "patch", "pin", "digest"],
+      "automerge": true
+    }
+  ]
+}
