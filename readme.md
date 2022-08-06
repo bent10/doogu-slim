@@ -1,6 +1,6 @@
 # doogu-slim
 
-Slim package of [doogu](https://github.com/bent10/doogu-slim).
+Slim package of [doogu](https://github.com/bent10/doogu).
 
 - [Install](#install)
 - [What includes?](#what-includes)
