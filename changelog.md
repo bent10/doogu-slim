@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/bent10/doogu-slim/compare/v1.0.8...v1.0.9) (2022-09-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency typescript to ^4.8.3 ([f8c4a27](https://github.com/bent10/doogu-slim/commit/f8c4a2745cc11d59cdaf5af7dba7ed3a49d44676))
+
 ## [1.0.8](https://github.com/bent10/doogu-slim/compare/v1.0.7...v1.0.8) (2022-09-03)
 
 
