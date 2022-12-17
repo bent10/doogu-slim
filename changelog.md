@@ -1,3 +1,10 @@
+## [1.0.40](https://github.com/bent10/doogu-slim/compare/v1.0.39...v1.0.40) (2022-12-17)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to ^5.46.1 ([44cedcb](https://github.com/bent10/doogu-slim/commit/44cedcbeadd1fa3ee61ee2b7ad04a4581b8cdded))
+
 ## [1.0.39](https://github.com/bent10/doogu-slim/compare/v1.0.38...v1.0.39) (2022-12-17)
 
 
