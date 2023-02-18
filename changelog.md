@@ -1,3 +1,23 @@
+## [1.0.47](https://github.com/bent10/doogu-slim/compare/v1.0.46...v1.0.47) (2023-02-18)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @types/node to ^18.11.19 ([cccac2c](https://github.com/bent10/doogu-slim/commit/cccac2cec38f5976d97bd66a68cb345f7735fbf5))
+* **deps:** update dependency @types/node to ^18.13.0 ([d51014c](https://github.com/bent10/doogu-slim/commit/d51014c26bc8f8060713bbb9d4657eba87731065))
+* **deps:** update dependency @types/node to ^18.14.0 ([97f269e](https://github.com/bent10/doogu-slim/commit/97f269e7c6ff16d697fc6e67cc83222b77c891c1))
+* **deps:** update dependency eslint to ^8.32.0 ([35c924f](https://github.com/bent10/doogu-slim/commit/35c924fc1e2ef71214e1d86aed281208ad330f2b))
+* **deps:** update dependency eslint to ^8.33.0 ([3fc525a](https://github.com/bent10/doogu-slim/commit/3fc525a9672a87aaf65350fcab54d9c62672e281))
+* **deps:** update dependency eslint to ^8.34.0 ([6a1d5d1](https://github.com/bent10/doogu-slim/commit/6a1d5d13f5e256952ffdcda1272705a9cfa0f75f))
+* **deps:** update dependency eslint-config-prettier to ^8.6.0 ([55015c3](https://github.com/bent10/doogu-slim/commit/55015c36db7392a7250409b17f16c719fc6e2c1e))
+* **deps:** update dependency typescript to ^4.9.5 ([e9541cd](https://github.com/bent10/doogu-slim/commit/e9541cde9835d9554cffbb2337c18dd2f4c4d3b2))
+* **deps:** update typescript-eslint monorepo to ^5.48.0 ([021d9c6](https://github.com/bent10/doogu-slim/commit/021d9c63f022df42d8c3e17e70014c8fe5bc56a1))
+* **deps:** update typescript-eslint monorepo to ^5.48.1 ([491899e](https://github.com/bent10/doogu-slim/commit/491899e53355e29e47d992d130cd32b99fa85c47))
+* **deps:** update typescript-eslint monorepo to ^5.48.2 ([97fe1c0](https://github.com/bent10/doogu-slim/commit/97fe1c00a312160b507aeda6e93fc339b34f0931))
+* **deps:** update typescript-eslint monorepo to ^5.49.0 ([f41a51c](https://github.com/bent10/doogu-slim/commit/f41a51c6929af71c5a19417d55d4a5f7068970c4))
+* **deps:** update typescript-eslint monorepo to ^5.50.0 ([a487ec5](https://github.com/bent10/doogu-slim/commit/a487ec567eec612059a1191d602a226320a499ce))
+* **deps:** update typescript-eslint monorepo to ^5.51.0 ([da99a25](https://github.com/bent10/doogu-slim/commit/da99a251b130bce2efe5e016b89b41882832bf65))
+
 ## [1.0.46](https://github.com/bent10/doogu-slim/compare/v1.0.45...v1.0.46) (2022-12-31)
 
 
