@@ -1,3 +1,10 @@
+## [1.0.50](https://github.com/bent10/doogu-slim/compare/v1.0.49...v1.0.50) (2023-02-25)
+
+
+### Bug Fixes
+
+* **deps:** update typescript-eslint monorepo to ^5.53.0 ([0291f86](https://github.com/bent10/doogu-slim/commit/0291f86d762cc5deb5c9164873bc3d533a904240))
+
 ## [1.0.49](https://github.com/bent10/doogu-slim/compare/v1.0.48...v1.0.49) (2023-02-25)
 
 
