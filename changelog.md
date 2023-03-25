@@ -1,3 +1,11 @@
+## [1.0.63](https://github.com/bent10/doogu-slim/compare/v1.0.62...v1.0.63) (2023-03-25)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^8.8.0 ([9398e21](https://github.com/bent10/doogu-slim/commit/9398e2179ad1318fb5614f2a67d06c23ce507e87))
+* **deps:** update typescript-eslint monorepo to ^5.56.0 ([836221f](https://github.com/bent10/doogu-slim/commit/836221f1fe4924441713cad351ed451afb136379))
+
 ## [1.0.62](https://github.com/bent10/doogu-slim/compare/v1.0.61...v1.0.62) (2023-03-25)
 
 
