@@ -1,3 +1,10 @@
+## [1.0.72](https://github.com/bent10/doogu-slim/compare/v1.0.71...v1.0.72) (2023-04-22)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint to ^8.39.0 ([72a3969](https://github.com/bent10/doogu-slim/commit/72a3969e22aa46e066cfbd0d1195c39e4ed16eb6))
+
 ## [1.0.71](https://github.com/bent10/doogu-slim/compare/v1.0.70...v1.0.71) (2023-04-22)
 
 
