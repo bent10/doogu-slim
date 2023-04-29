@@ -1,3 +1,10 @@
+## [1.0.75](https://github.com/bent10/doogu-slim/compare/v1.0.74...v1.0.75) (2023-04-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @types/node to ^18.16.2 ([9de20d1](https://github.com/bent10/doogu-slim/commit/9de20d1a08f92a49b97a792872fa887268a91294))
+
 ## [1.0.74](https://github.com/bent10/doogu-slim/compare/v1.0.73...v1.0.74) (2023-04-23)
 
 
