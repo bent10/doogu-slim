@@ -1,3 +1,10 @@
+## [1.0.81](https://github.com/bent10/doogu-slim/compare/v1.0.80...v1.0.81) (2023-05-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @tsconfig/node16 to ^1.0.4 ([127b0f6](https://github.com/bent10/doogu-slim/commit/127b0f6776309d928a066ed4438d4ef3aa5930f5))
+
 ## [1.0.80](https://github.com/bent10/doogu-slim/compare/v1.0.79...v1.0.80) (2023-05-06)
 
 
