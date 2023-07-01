@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@tsconfig/node12": "^1.0.11",
-    "@tsconfig/node14": "^1.0.3",
+    "@tsconfig/node14": "^14.1.0",
     "@tsconfig/node16": "^1.0.4",
     "@types/node": "^18.16.19",
     "@typescript-eslint/eslint-plugin": "^5.60.0",
