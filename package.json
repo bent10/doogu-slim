@@ -35,7 +35,7 @@
     "test": "eslint \"./config\" --ext \".js,.json\" --cache --cache-location \"node_modules/.cache/.eslintcache\""
   },
   "dependencies": {
-    "@tsconfig/node12": "^1.0.11",
+    "@tsconfig/node12": "^12.1.0",
     "@tsconfig/node14": "^1.0.3",
     "@tsconfig/node16": "^1.0.4",
     "@types/node": "^18.16.19",
