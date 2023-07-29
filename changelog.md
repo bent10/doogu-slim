@@ -1,3 +1,10 @@
+## [1.0.109](https://github.com/bent10/doogu-slim/compare/v1.0.108...v1.0.109) (2023-07-29)
+
+
+### Bug Fixes
+
+* **deps:** update dependency eslint-config-prettier to ^8.9.0 ([06689d9](https://github.com/bent10/doogu-slim/commit/06689d91a0035be17c06a1403c4cb38161d3c5d0))
+
 ## [1.0.108](https://github.com/bent10/doogu-slim/compare/v1.0.107...v1.0.108) (2023-07-29)
 
 
